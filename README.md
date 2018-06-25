@@ -1,4 +1,4 @@
-# PNG-to-JSON
+# PNG to JSON ROBLOX
 A simple PNG to JSON application
 
 This application will run on every OS.
@@ -10,4 +10,6 @@ Just launch the application and follow the instructions to use.
 
 > JSON result
 
-If there is anything wrong with the program please contact me in the Issues tab, or more urgently through discord @IonCode#9628
+> Use JSON with module uploaded on ROBLOX here: www.roblox.com
+
+If there is anything wrong with the program please contact me in the Issues tab, or more urgently through discord @IonCode#9628, Roblox @IonCode, or Twitter @ArcHorizon.
